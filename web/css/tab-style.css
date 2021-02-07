@@ -1,0 +1,20 @@
+/* Style the tab */
+.tabs {
+    overflow: hidden;
+}
+  /* Style the tab content */
+.tabcontent {
+    animation: fadeEffect 1s; /* Fading effect takes 1 second */
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+}
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+p{
+    overflow-wrap: break-word;
+　　 word-wrap: break-word;
+}

@@ -1,0 +1,21 @@
+body {
+	background-color:#fff;
+	color:#333;
+	font-size:80%;
+	line-height:1.8;
+}
+h1 {
+	font-size:14pt;
+	color:#777;
+	padding:0;
+	margin:0;
+}
+form {
+	width:300px;
+	padding:8px;
+	border:1px #ddf solid;
+	background-color:#f0f0ff;
+}
+#uComment {
+	display:none;
+}
